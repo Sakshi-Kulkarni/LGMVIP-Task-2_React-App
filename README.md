@@ -1,3 +1,10 @@
+# Objectives:
+ 1. Making a Navbar
+ 2. Having a brand name to it (Brand Name: Let's Grow More)
+ 3. Adding a button in the navbar saying 'Get Users'
+ 4. The button calls an API to fetch the users data (API: https://lnkd.in/gYpqTR_8)
+ 5. Showing a loader while the API fetches the data
+ 6. The User Data is shown in the Card grid layout
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
