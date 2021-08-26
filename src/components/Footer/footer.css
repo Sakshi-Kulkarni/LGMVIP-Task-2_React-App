@@ -1,0 +1,26 @@
+.footer{
+    background-color:  #00d4ff;
+    padding: 20px;
+   -webkit-font-smoothing: antialiased;
+   
+ 
+ }
+.footer .text-center{
+    text-align: center;
+    font-size: 20px;
+ font-family: Georgia, serif;
+}
+@media screen and (max-width: 600px) {
+
+	 .footer{
+ 		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+        margin-top: 1350px;
+  	}
+
+	.footer{
+		margin-left: 0;
+	}
+
+}
