@@ -15,5 +15,4 @@ const Card = ({ userid, first_name, last_name, email, image }) => {
         </div>
         )
 }
-//https://thapatechnical.github.io/
 export default Card;
